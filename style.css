@@ -38,3 +38,9 @@
     display: none;
     text-align: center;
 }
+.again-btn {
+    display: none;
+    margin: 20px auto;
+    padding: 10px 20px;
+    display: block;
+}
